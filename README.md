@@ -1,3 +1,2 @@
-# weather-app_for_5_days
-weather-app for 5 days with intervals 3 hours
-i used js and openWeather API
+# weather-app for 5 days in in any city you choose.
+Used JS, HTML5, CSS3, REST API (openWeather API)
